@@ -1,3 +1,4 @@
-- 👋 Olá, eu sou o Vitor!
-- 👀 Gosto de desenvolvimento web. Linguagens favoritas: JavaScript e PHP.
-- 😄 Pronomes: Ele/Dele.
+- 👋 Hi, I'm Vitor!
+- 👀 I enjoy web development.
+- Favorite languages: JavaScript and PHP.
+- 😄 Pronouns: He/Him."
